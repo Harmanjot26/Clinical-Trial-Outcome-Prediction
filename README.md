@@ -152,7 +152,5 @@ project/
 
 ---
 
-## 📚 Citation
-```
-Huang, K., et al. "Therapeutics Data Commons: Machine Learning Datasets and Tasks for Therapeutics." (2021).
-```
+
+
